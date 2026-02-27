@@ -63,5 +63,5 @@ Parul University, 2021 - 2025
 
 Open to freelance projects. If you have a web application idea or need backend development work done, feel free to reach out.
 
-**Email:** [your email here]
+**Email:** [darshak007chavda@gmail.com]
 **LinkedIn:** https://www.linkedin.com/in/darshak-chavda-439940239/
