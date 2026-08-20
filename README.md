@@ -1,6 +1,6 @@
 # Darshak Chavda
 
-I am a Software Developer from Anand, Gujarat, India with a background in Computer Science from Parul University. I have hands-on experience building web applications using ASP.NET and React Native, and I recently worked as a Software Developer Intern at Moneycure Securities & Financial Services Ltd.
+I am a Software Developer from bhavnagar, Gujarat, India with a background in Computer Science from Parul University. I have hands-on experience building web applications using ASP.NET and React Native, and I recently worked as a Software Developer Intern at Moneycure Securities & Financial Services Ltd.
 
 Right now I am focused on freelance .NET web development — building clean, functional web applications and APIs for clients who need reliable backend solutions.
 
